@@ -4,11 +4,11 @@ Welcome to the Flutter OOP Concepts repository! If you're new to Object-Oriented
 
 ## Table of Contents
 
-1. [Classes and Objects](#classes-and-objects)
-2. [Encapsulation](#encapsulation)
-3. [Inheritance](#inheritance)
-4. [Polymorphism](#polymorphism)
-5. [Abstraction](#abstraction)
+1. [Classes and Objects](classes-and-objects.dart)
+2. [Encapsulation](encapsulation.dart)
+3. [Inheritance](inheritance.dart)
+4. [Polymorphism](polymorphism.dart)
+5. [Abstraction](abstraction.dart)
 
 ## Classes and Objects <a name="classes-and-objects"></a>
 
