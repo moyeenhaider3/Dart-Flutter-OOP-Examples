@@ -5,6 +5,13 @@
  * It allows a new class (child) to inherit the characteristics and behaviors of an existing class (parent).
  * This promotes code reuse, making it easier to create and maintain code.
  * It establishes a relationship between classes, where the child class can use the properties and methods of the parent class.
+ * 
+ * Why is Inheritance Important?
+ * Inheritance is important because it promotes code reuse and establishes a hierarchy between classes.
+ * It allows the child class to leverage the properties and methods of the parent class, reducing redundancy and making code more maintainable.
+ * 
+ * Imagine: Think of inheritance as a superhero (child class) inheriting superpowers (methods and properties) from their superhero parent.
+ * Each new superhero doesn't need to learn how to fly; they inherit the ability from their superhero parent!
  */
 
 // Define a class representing a Superhero (parent class)
