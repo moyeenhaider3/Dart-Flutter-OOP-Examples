@@ -4,11 +4,11 @@ Welcome to the Flutter OOP Concepts repository! If you're new to Object-Oriented
 
 ## Table of Contents
 
-1. [Classes and Objects](classes-and-objects.dart)
-2. [Encapsulation](encapsulation.dart)
-3. [Inheritance](inheritance.dart)
-4. [Polymorphism](polymorphism.dart)
-5. [Abstraction](abstraction.dart)
+1. [Classes and Objects](#classes-and-objects)
+2. [Encapsulation](#encapsulation)
+3. [Inheritance](#inheritance)
+4. [Polymorphism](#polymorphism)
+5. [Abstraction](#abstraction)
 
 ## Classes and Objects <a name="classes-and-objects"></a>
 
@@ -26,7 +26,7 @@ Classes and objects help you organize your baking adventures. With different rec
 Think of the class as your favorite recipe card for baking chocolate chip cookies, and objects are the actual batches of cookies you bake using that recipe. Each batch is a tasty creation, but they all follow the same set of instructions from your beloved recipe card.
 
 **Code Example:**
-[Classes and Objects Example](classes_and_objects_example.dart)
+[Classes and Objects Example](classes_and_objects.dart)
 
 ## Encapsulation <a name="encapsulation"></a>
 
@@ -46,7 +46,7 @@ Think of encapsulation as wrapping up the surprises inside a special doll, and t
 Another way to think it is picturing a magical box that only opens with a secret code. The box (class) contains special items (data) and can perform amazing tricks (methods). You don't need to know how the tricks work; you just need to know the secret code to access them!
 
 **Code Example:**
-[Encapsulation Example](encapsulation_example.dart)
+[Encapsulation Example](encapsulation.dart)
 
 ## Inheritance <a name="inheritance"></a>
 
@@ -62,7 +62,7 @@ Inheritance promotes code reuse, making it easier to create and maintain code. I
 Think of a superhero (child class) inheriting superpowers (methods and properties) from their superhero parent. Each new superhero doesn't need to learn how to fly; they inherit the ability from their superhero parent!
 
 **Code Example:**
-[Inheritance Example](inheritance_example.dart)
+[Inheritance Example](inheritance.dart)
 
 ## Polymorphism <a name="polymorphism"></a>
 
@@ -80,7 +80,7 @@ Polymorphism is important because it adds flexibility. You can use the same butt
 Think of polymorphism as having a universal remote control that works with different devices. Pressing the same button does different things for each device, showcasing their unique abilities, just like polymorphism allows one function to work with different types of objects.
 
 **Code Example:**
-[Polymorphism Example](polymorphism_example.dart)
+[Polymorphism Example](polymorphism.dart)
 
 
 ## Abstraction <a name="abstraction"></a>
@@ -99,7 +99,7 @@ Abstraction is important because it simplifies things. Instead of dealing with i
 Think of abstraction as using the dance button on your robot without caring about the gears and circuits inside. In programming, abstraction lets you focus on what things do, abstracting away the complex details of how they do it.
 
 **Code Example:**
-[Abstraction Example](abstraction_example.dart)
+[Abstraction Example](abstraction.dart)
 
 ---
 
